@@ -3,8 +3,8 @@
 
 <div align="center">
 
-<h3 align="center">Connect with me:</h3>
-<p align="left">
+<h3 align="">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/rodrigo-nikolof-41686030/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodrigo-nikolof-41686030/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rodrigo.nikolof/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rodrigo.nikolof/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rodrigonikolof/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rodrigonikolof/" height="30" width="40" /></a>
