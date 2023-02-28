@@ -1,6 +1,35 @@
 <h1 align="center">Hi, I'm Rodrigo 👋</h1>
 <h3 align="center">An aspiring software engineer who fell in love with coding and can't wait to build a career with it!!!</h3>
 
+<h3> How would I define myself? Probably like this </h3>
+
+```ruby
+ class Rodrigo < Person
+   def initialize
+     @name = 'Rodrigo Nikolof'
+     @birth_year = 1988 
+     @previous_work = '10+ years in the property management industry'
+     @education = [ 'Software Engineer Bootcamp - Academy Xi', 'Bachelor of IT - Charles Sturt University]
+     @hobbies = [ 'Anime/Manga', 'Gaming', 'Exercising' ]
+   end
+
+   def current_location
+     'Sydney, Australia'
+   end
+
+   def starting_location
+     'Porto Alegre, Brazil'
+   end
+
+   def currently
+     {
+       studying: [ 'Ruby on Rails' ],
+       tinkering: [ 'Tailwind', 'Material UI'  ]
+      }
+   end
+ end
+ ```
+
 <br>
 
 <div align="center">
