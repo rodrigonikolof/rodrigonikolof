@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">An aspiring software engineer who fell in love with coding and can't wait to build a career with it!!!</h3>
 
+<br>
+<br>
+
 <div align="center">
 
 <h3 align="">Connect with me:</h3>
