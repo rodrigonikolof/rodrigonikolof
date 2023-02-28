@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rodrigo</h1>
+<h1 align="center">Hi, I'm Rodrigo 👋</h1>
 <h3 align="center">An aspiring software engineer who fell in love with coding and can't wait to build a career with it!!!</h3>
 
 <br>
 
 <div align="center">
 
-<h3 align="">🔌Let's connect:</h3>
+<h2 align="">🔌Let's connect:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/rodrigo-nikolof-41686030/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodrigo-nikolof-41686030/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rodrigo.nikolof/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rodrigo.nikolof/" height="30" width="40" /></a>
@@ -21,9 +21,9 @@
 <br>
   
   <h2>📈 Here are some free stats:</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigonikolof&show_icons=true&locale=en&layout=compact" alt="rodrigonikolof" /></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigonikolof&show_icons=true&locale=en&layout=compact" alt="rodrigonikolof" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rodrigonikolof&show_icons=true&locale=en" alt="rodrigonikolof" /></p>
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=rodrigonikolof&show_icons=true&locale=en" alt="rodrigonikolof" /></p>
 
 </div>
 
