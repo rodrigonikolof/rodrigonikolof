@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">An aspiring software engineer who fell in love with coding and can't wait to build a career with it!!!</h3>
 
+<div align="center">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rodrigo-nikolof-41686030/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodrigo-nikolof-41686030/" height="30" width="40" /></a>
@@ -14,6 +16,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigonikolof&show_icons=true&locale=en&layout=compact" alt="rodrigonikolof" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigonikolof&show_icons=true&locale=en" alt="rodrigonikolof" /></p>
+
+</div>
 
 
 <!--
