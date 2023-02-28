@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rodrigo 👋</h1>
 <h3 align="center">An aspiring software engineer who fell in love with coding and is working hard to start his career in tech!!!</h3>
 
-<h3> How would I define myself? Probably like this </h3>
+<h3> How would I define myself? Probably like this: </h3>
 
 ```ruby
  class Rodrigo < Person
