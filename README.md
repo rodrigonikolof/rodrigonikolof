@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/gifs/scaler-official-cat-cats-coding-k0ijJhqrUP4T2EvmJ1" width="100"/>
 </div>
+
 
 <!--
 **rodrigonikolof/rodrigonikolof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
