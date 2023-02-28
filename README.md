@@ -7,17 +7,16 @@
  class Rodrigo < Person
    def initialize
      @name = 'Rodrigo Nikolof'
-     @birth_year = 1988 
      @previous_work = '10+ years in the property management industry'
-     @education = [ 'Software Engineer Bootcamp - Academy Xi', 'Bachelor of IT - Charles Sturt University]
-     @hobbies = [ 'Anime/Manga', 'Gaming', 'Exercising' ]
+     @education = ['Bachelor of IT - Charles Sturt University', 'Software Engineer Bootcamp - Academy Xi']
+     @hobbies = [ 'Anime & Manga', 'Gaming', 'Exercising' ]
    end
 
-   def current_location
+   def home_location
      'Sydney, Australia'
    end
 
-   def starting_location
+   def birth_location
      'Porto Alegre, Brazil'
    end
 
