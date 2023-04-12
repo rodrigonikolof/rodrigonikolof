@@ -22,7 +22,7 @@
 
    def currently
      {
-       studying: [ 'Ruby on Rails' ],
+       studying: [ 'Ruby', 'Ruby on Rails' ],
        tinkering: ['Typescript', 'Tailwind', 'Material UI'  ]
       }
    end
