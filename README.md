@@ -20,9 +20,9 @@
      'Porto Alegre, Brazil'
    end
 
-   def currently
+   def current
      {
-       studying: [ 'Ruby', 'Ruby on Rails' ],
+       technologies: [ 'Ruby', 'Ruby on Rails', 'Javascript, 'React JS' ],
        tinkering: ['Typescript', 'Tailwind', 'Material UI'  ]
       }
    end
